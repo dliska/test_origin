@@ -1,0 +1,10 @@
+.foo{
+  color: red;
+  text-align: left;
+}
+
+.bar {
+  color: black;
+  text-align: center;
+  float: left;
+}
